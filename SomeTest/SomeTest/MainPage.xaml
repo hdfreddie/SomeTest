@@ -19,6 +19,7 @@
                 </FormattedString>
             </Label.FormattedText>
         </Label>
+        <Entry Placeholder="Write something here"/>
     </StackLayout>
 
 </ContentPage>
