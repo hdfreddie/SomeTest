@@ -17,7 +17,7 @@ namespace SomeTest
 
         private void Button_Clicked(object sender, EventArgs e)
         {
-            DisplayAlert("Message", "This is my alert", "OK");
+            DisplayAlert("Success", "This click was successful", "OK");
         }
     }
 }
